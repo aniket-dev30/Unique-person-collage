@@ -269,7 +269,7 @@ The application does not require a backend service for video processing or ident
 1. Clone the repository.
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/aniket-dev30/Unique-person-collage.git
 ```
 
 2. Open the project in Android Studio.
