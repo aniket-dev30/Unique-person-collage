@@ -1,4 +1,4 @@
-# IYKYK – Unique-Person Video Collage
+# Unique-Person Video Collage
 
 An Android application that processes portrait videos completely on-device: it detects faces, groups observations belonging to the same person across different moments in the video, counts each person's continuous appearances, and generates a single collage containing one representative image per detected person.
 
